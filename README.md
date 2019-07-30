@@ -22,6 +22,7 @@ When you accepted this assigment, Github Classroom made a repo for you. You want
 3. Use git commands to add and commit your file
 4. Check your work with ```git status```
 5. Use git commands to push that file to your repo on Github
+6. Added something
 
 ## Challenge 2: Adding your solutions
 
